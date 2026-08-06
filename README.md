@@ -40,6 +40,25 @@ events — FTP deployment, remote cameras, and automated metadata systems. Recen
 
 Full event breakdowns and the operations portfolio: [andrewwevers.com/editing](https://www.andrewwevers.com/editing/)
 
+## Selected events
+
+Editing, photo operations, and on-site tech across wire services, tours, and tournaments:
+
+| | |
+|---|---|
+| **Olympics & global** | 2026 Winter Olympics · 2024 Summer Olympics — Getty Images · 2026 FIFA World Cup — Getty Images (tech) |
+| **Tennis** | US Open ’22 & ’23 · BNP Paribas Open ’24 & ’25 · Miami Open ’26 · Cincinnati Open ’25 — tournament photo teams |
+| **Motorsport** | 2026 F1 Miami Grand Prix |
+| **Golf** | 2023 Masters & Players Championship · 2023 Memorial — Getty Images · 2023 Solheim Cup — Getty Images · 2024 Presidents Cup — PGA TOUR |
+| **Basketball** | NBA Finals ’23 (USA Today Sports) & ’24 (Getty Images) · 2023 NBA All-Star · 2022 Final Four · 2025 Players Era Tournament |
+| **Football** | 2023 Super Bowl · 2023 Getty Images NFL editing team |
+| **Baseball & hockey** | 2023 Rangers postseason (World Series, ALCS, ALDS — editing, remote cameras, server setup) · 2024 Stanley Cup Finals — Getty Images |
+| **News & entertainment** | Grammys ’25 · Emmys ’24 (tech) · MTV VMAs ’25 · 2025 Presidential Inauguration · 2024 Election Night · 2024 RNC & DNC (tech) — Getty Images |
+
+At the 2024 BNP Paribas Open, the editing workflow I helped run won the **2024 PhotoShelter
+Storyteller Award** — 300k frames across 171 matches, narrowed to 16k+ delivered edits with
+AI-assisted tagging and sorting.
+
 ## Elsewhere
 
 - Photography: [andrewwevers.com](https://www.andrewwevers.com)
