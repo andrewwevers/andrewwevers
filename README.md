@@ -2,6 +2,14 @@
 
 **Sports & event photographer — and the developer of the field tools I shoot with.**
 
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-13%2B-000000?logo=apple&logoColor=white)
+![Developer ID](https://img.shields.io/badge/Developer%20ID-signed%20%26%20notarized-34C759)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white)
+
 I photograph professional sports for wire and agency delivery, and I build
 **[Wevers Photo Field Tools](https://andrewwevers.github.io/)** — a suite of native macOS
 apps that carry a game-day take from card to wire, in production at live events with
@@ -19,6 +27,18 @@ working photo crews.
 Each app is a native macOS application, signed and notarized, shipped and supported by one
 person: the same photographer using them on deadline. Feature requests tend to come from the
 field on a game night and ship before the next one.
+
+## By the numbers
+
+Beyond the apps, I run live editorial workflows and on-site media infrastructure for major
+events — FTP deployment, remote cameras, and automated metadata systems. Recent event stats:
+
+- **212,839 frames** ingested across one Formula 1 Grand Prix weekend — **53,210 frames per
+  day**, 11,407 edits delivered
+- **14,086 edits** across a single tennis tournament: 33 practices, 136 matches, 4 remote cameras
+- **0:23** — fastest photo from capture to delivered, live during play
+
+Full event breakdowns and the operations portfolio: [andrewwevers.com/editing](https://www.andrewwevers.com/editing/)
 
 ## Elsewhere
 
