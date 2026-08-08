@@ -1,6 +1,6 @@
 # Andrew Wevers
 
-**Sports & event photographer — and the developer of the field tools I shoot with.**
+**Freelance Photographer, Editor and Tech - and the developer of the programs I work with.**
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white)
@@ -10,10 +10,9 @@
 ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white)
 
-I photograph professional sports for wire and agency delivery, and I build
+I photograph, edit, and tech for major events, and I build
 **[Wevers Photo Field Tools](https://andrewwevers.github.io/)** — a suite of native macOS
-apps that carry a game-day take from card to wire, in production at live events with
-working photo crews.
+programs.
 
 ## The suite
 
@@ -25,13 +24,12 @@ working photo crews.
 | **[EXIF Watcher](https://andrewwevers.github.io/EXIF-Watcher/)** | Scans an event or season archive and writes a multi-sheet Excel report — frames per photographer and per event, bodies, lenses, ISO / aperture / focal averages — straight from camera metadata. |
 
 Each app is a native macOS application, signed and notarized, shipped and supported by one
-person: the same photographer using them on deadline. Feature requests tend to come from the
-field on a game night and ship before the next one.
+person - me.
 
 ## By the numbers
 
 Beyond the apps, I run live editorial workflows and on-site media infrastructure for major
-events — FTP deployment, remote cameras, and automated metadata systems. Recent event stats:
+events — Network Infrastructure, FTP server deployment, remote cameras, and automated metadata systems. Recent event stats:
 
 - **212,839 frames** ingested across one Formula 1 Grand Prix weekend — **53,210 frames per
   day**, 11,407 edits delivered
