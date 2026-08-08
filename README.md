@@ -2,13 +2,9 @@
 
 **Freelance Photographer, Editor and Tech - and the developer of the programs I work with.**
 
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-13%2B-000000?logo=apple&logoColor=white)
-![Developer ID](https://img.shields.io/badge/Developer%20ID-signed%20%26%20notarized-34C759)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white)
+[![Website](https://img.shields.io/badge/Website-andrewwevers.com-0A84FF?style=for-the-badge&logo=safari&logoColor=white)](https://www.andrewwevers.com/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/andrewwevers/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrewwevers/)
 
 I photograph, edit, and tech for major events, and I build
 **[Wevers Photo Field Tools](https://andrewwevers.github.io/)** — a suite of native macOS
@@ -25,6 +21,28 @@ programs.
 
 Each app is a native macOS application, signed and notarized, shipped and supported by one
 person - me.
+
+## Languages and Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" alt="Perl" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
+</p>
+
+Swift + SwiftUI for the Mac apps, C# / .NET for the Windows client, Python and shell for
+tooling and automation, and the web stack for the docs site.
 
 ## By the numbers
 
