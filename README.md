@@ -1,26 +1,12 @@
 # Andrew Wevers
 
-**Freelance Photographer, Editor and Tech - and the developer of the programs I work with.**
+**Freelance Photographer, Editor and Tech.**
 
 [![Website](https://img.shields.io/badge/Website-andrewwevers.com-0A84FF?style=for-the-badge&logo=safari&logoColor=white)](https://www.andrewwevers.com/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/andrewwevers/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrewwevers/)
 
-I photograph, edit, and tech for major events, and I build
-**[Wevers Photo Field Tools](https://andrewwevers.github.io/)** — a suite of native macOS
-programs.
-
-## The suite
-
-| App | What it does |
-|---|---|
-| **[IngestFlow](https://andrewwevers.github.io/IngestFlow/)** | Automated FTP / FTPS / SFTP downloading — point it at a server and it mirrors folders to your Mac, waiting for each file to finish uploading, with metadata applied on the way in. |
-| **[FrameFlow](https://andrewwevers.github.io/FrameFlow/)** | A shared, real-time contact sheet: ingest, cull, colour-tag, write full IPTC captions, round-trip edits through Photoshop, and deliver to FTP or ScorePlay — solo or with a whole crew in one live session. |
-| **[CaptionFlow](https://andrewwevers.github.io/CaptionFlow/)** | Batch caption standardizer — conforms every caption in a take to clean wire-service style and writes the full IPTC / XMP / EXIF set back into each file. |
-| **[EXIF Watcher](https://andrewwevers.github.io/EXIF-Watcher/)** | Scans an event or season archive and writes a multi-sheet Excel report — frames per photographer and per event, bodies, lenses, ISO / aperture / focal averages — straight from camera metadata. |
-
-Each app is a native macOS application, signed and notarized, shipped and supported by one
-person - me.
+I photograph, edit, and tech for major events.
 
 ## Languages and Tools
 
@@ -41,12 +27,11 @@ person - me.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
-Swift + SwiftUI for the Mac apps, C# / .NET for the Windows client, Python and shell for
-tooling and automation, and the web stack for the docs site.
+Swift + SwiftUI, C# / .NET, Python and shell for tooling and automation, and the web stack.
 
 ## By the numbers
 
-Beyond the apps, I run live editorial workflows and on-site media infrastructure for major
+I run live editorial workflows and on-site media infrastructure for major
 events — Network Infrastructure, FTP server deployment, remote cameras, and automated metadata systems. Recent event stats:
 
 - **212,839 frames** ingested across one Formula 1 Grand Prix weekend — **53,210 frames per
@@ -78,5 +63,4 @@ AI-assisted tagging and sorting.
 ## Elsewhere
 
 - Photography: [andrewwevers.com](https://www.andrewwevers.com)
-- The tools: [andrewwevers.github.io](https://andrewwevers.github.io/)
 - Contact: andrew.wevers@gmail.com
